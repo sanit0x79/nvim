@@ -4,7 +4,7 @@ This guide helps you set up the **Gruvbox** light theme in Neovim using **Packer
 
 ## Requirements
 
-- Neovim 0.5+
+- Neovim 0.10.4+
 - [Packer](https://github.com/wbthomason/packer.nvim) as your plugin manager
 - A terminal with true color support
 
